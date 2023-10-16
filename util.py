@@ -231,7 +231,7 @@ class Util:
 
             @media (prefers-color-scheme: dark) {
                 .footer {
-                    background-color: black;
+                    background-color: rgb(14, 17, 23);
                     color: white;
                 }
             }
